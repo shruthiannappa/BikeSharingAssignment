@@ -40,23 +40,23 @@
 ## Conclusions
 - We have finalised a model with R2 score of 0.79.
 - The influencing Factors in the final Model with coefficients are 
-* const              0.2036 
-* year(yr)           0.2338 
-* temperature(temp)  0.4923
-* windspeed          -0.1498     
-* mnth_Jul           -0.0486     
-* mnth_Sep            0.0721      
-* weekday_Sun        -0.0451    
-* weathersit_Mist    -0.0816    
-* weathersit_Snow    -0.2856     
-* season_spring      -0.0680     
-* season_summer       0.0467      
-* season_winter       0.0831  
+    * const              0.2036 
+    * year(yr)           0.2338 
+    * temperature(temp)  0.4923
+    * windspeed          -0.1498     
+    * mnth_Jul           -0.0486     
+    * mnth_Sep            0.0721      
+    * weekday_Sun        -0.0451    
+    * weathersit_Mist    -0.0816    
+    * weathersit_Snow    -0.2856     
+    * season_spring      -0.0680     
+    * season_summer       0.0467      
+    * season_winter       0.0831  
 
 - We have found the top 3 influencing factors on bike booking are 
-*	Temperature -temp(0.4923), If temperature increases by 1 unit then bike demand increases bike demand by 0.4923  units
-*	Weather Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds -weathersit_snow(-0.2856)- If Weather Snow increases by 1 unit then bike demand decreases bike demand by 0.2856 units
-*	Year - yr(0.2338) If year increases by 1 unit then bike demand increases bike demand by 0.2338 units
+    *	Temperature -temp(0.4923), If temperature increases by 1 unit then bike demand increases bike demand by 0.4923  units
+    *	Weather Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds -weathersit_snow(-0.2856)- If Weather Snow increases by 1 unit then bike demand decreases bike demand by 0.2856 units
+    *	Year - yr(0.2338) If year increases by 1 unit then bike demand increases bike demand by 0.2338 units
 
 
 
