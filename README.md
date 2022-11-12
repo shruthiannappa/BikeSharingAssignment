@@ -66,9 +66,6 @@ Give credit here.
 - This project was based on [Upgrad tutorial](https://learn.upgrad.com/course/4431?courseId=26360).
 
 
-## Contact
-Created by [@shruthiannappa] - feel free to contact me!
-
 
 <!-- Optional -->
 <!-- ## License -->
